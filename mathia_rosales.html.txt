@@ -1,0 +1,56 @@
+﻿mathia_rosales.html
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        <MathiaRosales class="html"></MathiaRosales>
+    </title>
+    <link rel="stylesheet" href="a.css">
+</head>
+
+
+<body>
+    <h1>wena kbros del yutu</h1>
+    <h2>hoy vamo a contemplar el pueblo marron</h2>
+    <h2>Observen el pueblo marron:</h2>
+</body><img src="F5cD3b8XQAADAD2.jpg" alt="">
+
+
+</html>
+
+
+<a href="https://www.youtube.com/watch?v=jg0T8IEpHtc">Dale click para escuchar muscia representativa del cerrú</a>
+
+
+
+
+
+
+a.css
+
+
+body{background-color: whitesmoke;}
+h1{
+    color: rgb(rgb(141, 78, 78), rgb(73, 85, 73), rgb(180, 180, 199));
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 80px;
+}
+h2{
+    color: rgba(45, 68, 75, 0.651);
+    text-align: left;
+}
+p{
+    color: rgba(58, 71, 73, 0.534);
+    text-align: left;
+}
+image{
+    width: 1000px;
+height: 1000px;
+}
